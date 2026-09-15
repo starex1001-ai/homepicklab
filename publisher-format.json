@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "site": "homepicklab",
+  "sha256": {
+    "build.py": "4ca6825d77baae4c88a4838bf88b4e0ea09fc7830dc60cd8ac3fbf62515a1041",
+    "content_support.py": "14e0f83eca00820a086224fd625f2d65ee37351f69934af7638b6c103e1026db"
+  }
+}
